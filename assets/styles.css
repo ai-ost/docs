@@ -15,18 +15,9 @@ main {
 }
 
 footer {
-    background: rgba(0,0,0,0.1);
-    width: 100%;
     border-top: 1px dashed #b5e853;
     padding: 20px 0;
     margin: 40px 0 0 0;
   
     text-align: center;  
-}
-
-footer {
-  text-align: center;
-  padding: 10px;
-  background-color: #f8f9fa;
-  margin-top: auto;
 }
