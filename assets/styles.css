@@ -1,0 +1,19 @@
+.padded-table {
+    .th,
+    .td {
+        padding: 4px;
+    }
+}
+
+.aligned-table {
+
+    .th:first-child,
+    .td:first-child {
+        text-align: left;
+    }
+
+    .th:not(:first-child),
+    .td:not(:first-child) {
+        text-align: right;
+    }
+}

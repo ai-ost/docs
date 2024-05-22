@@ -4,18 +4,18 @@ layout: default
 
 ## Filer
 
-<table>
+<table class="padded-table aligned-table">
   <thead>
     <tr>
-      <th style="text-align: left">Title</th>
-      <th style="text-align: right">Date</th>
+      <th>Title</th>
+      <th>Date</th>
     </tr>
   </thead>
   <tbody>
     {% for file in site.files %}
     <tr>
-      <td style="text-align: left"><a href="{{ file.url  | prepend: site.baseurl }}">{{ file.title }}</a></td>
-      <td style="text-align: right">{{ file.date | date: "%Y-%m-%d" }}</td>
+      <td><a href="{{ file.url  | prepend: site.baseurl }}">{{ file.title }}</a></td>
+      <td>{{ file.date | date: "%Y-%m-%d" }}</td>
     </tr>
     {% endfor %}
   </tbody>
