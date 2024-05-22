@@ -5,8 +5,8 @@ Välkommen till AI Öst Teknik gruppens dokumentationsrepository. Här samlar vi
 ## Välkommen att delta i vår community!
 
 Vi uppmuntrar nykomlingar att gå med i vår community. Det finns två sätt att göra detta:
-1. Begär att bli en contributor på [AI Öst GitHub](https://github.com/ai-ost).
-2. Hitta oss på "My AI" på [My AI](https://my.ai.se/organizations/1816).
+1. Begär att bli medlem på [AI Öst GitHub](https://github.com/ai-ost).
+2. Eller hitta oss på [My AI](https://my.ai.se/organizations/1816).
 
 ## Syfte
 
