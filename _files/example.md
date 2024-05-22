@@ -1,8 +1,9 @@
 ---
-title: Example Document
+layout: default
+title: Exempel Fil
 date: 2024-05-22
 ---
 
-# Example Document
+# Exempel Fil
 
-This is an example document in the `files` collection.
+Det här är en exempelfil
