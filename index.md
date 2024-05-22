@@ -4,10 +4,8 @@ layout: default
 
 ## Filer
 
-<ul>
-  {% for file in site.files %}
-    <li>
-      <a href="{{ file.url | prepend: site.baseurl }}">{{ file.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+| Titel | Datum | URL |
+|-------|------|-----|
+{% for file in site.files %}
+| [{{ file.title }}]({{ file.url | prepend: site.baseurl }}) | {{ file.date | date: "%Y-%m-%d" }} | [{{ file.url | prepend: site.baseurl }}]({{ file.url | prepend: site.baseurl }}) |
+{% endfor %}
