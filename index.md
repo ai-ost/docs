@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Home
 ---
 
 ## Filer
@@ -8,7 +7,7 @@ title: Home
 <ul>
   {% for file in site.files %}
     <li>
-      <a href="{{ file.url }}">{{ file.title }}</a>
+      <a href="{{ file.url | prepend: site.baseurl }}">{{ file.title }}</a>
     </li>
   {% endfor %}
 </ul>
