@@ -9,7 +9,6 @@ layout: default
     <tr>
       <th>Title</th>
       <th>Date</th>
-      <th>URL</th>
     </tr>
   </thead>
   <tbody>
@@ -17,7 +16,6 @@ layout: default
     <tr>
       <td><a href="{{ file.url  | prepend: site.baseurl }}">{{ file.title }}</a></td>
       <td>{{ file.date | date: "%Y-%m-%d" }}</td>
-      <td><a href="{{ file.url | prepend: site.baseurl }}">{{ file.url | prepend: site.baseurl }}</a></td>
     </tr>
     {% endfor %}
   </tbody>
