@@ -15,9 +15,9 @@ layout: default
   <tbody>
     {% for file in site.files %}
     <tr>
-      <td><a href="{{ file.url }}">{{ file.title }}</a></td>
+      <td><a href="{{ file.url  | prepend: site.baseurl }}">{{ file.title }}</a></td>
       <td>{{ file.date | date: "%Y-%m-%d" }}</td>
-      <td><a href="{{ file.url }}">{{ file.url | prepend: site.github.url }}</a></td>
+      <td><a href="{{ file.url | prepend: site.baseurl }}">{{ file.url | prepend: site.baseurl }}</a></td>
     </tr>
     {% endfor %}
   </tbody>
