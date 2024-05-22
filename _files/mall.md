@@ -25,4 +25,4 @@ date: 2024-06-01
 ## Hjälp
 
 * [https://docs.github.com/en/pages](https://docs.github.com/en/pages)
-* [https://pages-themes.github.io/hacker/](https://pages-themes.github.io/hacker/)
+* [https://github.com/pages-themes/architect](https://github.com/pages-themes/architect)
