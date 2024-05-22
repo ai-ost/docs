@@ -1,19 +1,14 @@
-.padded-table {
-    .th,
-    .td {
-        padding: 4px;
-    }
+.padded-table th,
+.padded-table td {
+    padding: 4px;
 }
 
-.aligned-table {
+.aligned-table th:first-child,
+.aligned-table td:first-child {
+    text-align: left;
+}
 
-    .th:first-child,
-    .td:first-child {
-        text-align: left;
-    }
-
-    .th:not(:first-child),
-    .td:not(:first-child) {
-        text-align: right;
-    }
+.aligned-table th:not(:first-child),
+.aligned-table td:not(:first-child) {
+    text-align: right;
 }
