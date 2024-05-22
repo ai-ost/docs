@@ -11,16 +11,22 @@ Här samlar vi begrepp på tekniker som har med AI att göra med och försöker 
 ## Topic
 
 Term A
-: Beskrivning av vad Term A innebär
+: Kort beskrivning av vad Term A innebär.
 
 Term B
-: Beskrivning av vad Term B innebär
+: Kort beskrivning av vad Term B innebär.
+  Lite mer beskriving av samma term.
 
 ...
 
 ## Topic B
 
-Annan Term
-: Förklaring av den här termen.
+### Annan Term
+För längre beskrivningar kan man använda sig av underrubriker istället.
+Förklaring av den här termen.
+
+Lite mer förklarande text.
+
+Läs mer på [https://example.com](https://example.com)
 
 ...
