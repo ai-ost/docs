@@ -1,9 +1,14 @@
 ---
 layout: default
+title: Home
 ---
 
-# AI Öst
+## Filer
 
-Välkommen till AI Öst och Tech-gruppens publika dokument repository.
-
-(https://ai-ost.github.io/docs/)
+<ul>
+  {% for file in site.files %}
+    <li>
+      <a href="{{ file.url }}">{{ file.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

@@ -14,3 +14,8 @@ plugins:
   - jekyll-relative-links
 title: AI Öst Teknik gruppen - Dokument
 description: Här samlar vi dokument som vi samarbetar kring.
+
+collections:
+  files:
+    output: true
+    permalink: /:collection/:path/
