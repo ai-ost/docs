@@ -1,10 +1,10 @@
-title: AI Öst Teknik gruppen - Dokument
+title: AI Öst - Dokument
 description: Här samlar vi dokument som vi samarbetar kring.
 
 collections:
   files:
     output: true
-    permalink: /docs/:collection/:path/
+    permalink: /:collection/:path/
 
 lsi: false
 safe: true
