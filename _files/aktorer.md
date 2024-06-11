@@ -1,3 +1,11 @@
+---
+layout: default
+title: Aktörer
+date: 2024-06-11
+---
+
+# {{ page.title }}
+
 # Företag inom AI
 
 ## Google DeepMind
