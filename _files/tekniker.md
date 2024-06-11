@@ -19,6 +19,8 @@ Lysande bollplank för en mängd olika tekniska problemställningar. Framförall
 
 Man behöver alltid ta det man får med en nypa salt och kan behöva iterera fram en lösning ett par gånger. Men i en konversation skapas ett sammanhang där följdfrågor förstås bättre och bättre av modellen.
 
+[https://openai.com/index/chatgpt/](https://openai.com/index/chatgpt/)
+
 ### Femini
 
 En chatbot designad för att förbättra och stödja konversationer med ett fokus på inkluderande och jämställdhetsfrågor. Femini använder avancerade AI-tekniker för att analysera och ge råd om jämställdhet inom olika områden.
@@ -29,15 +31,31 @@ En plattform där olika chatbots kan testas och jämföras i realtid. Detta hjä
 
 ## LLM
 
-### GPT
+### openai GPT
 
-GPT (Generative Pre-trained Transformer) är en typ av AI-modell som är tränad för att generera text. De senaste versionerna inkluderar gpt-3.5, gpt-4, och gpt-4o, som är förbättrade för att ge mer exakta och relevanta svar i olika konversationer och uppgifter.
+De senaste versionerna inkluderar gpt-3.5, gpt-4, och gpt-4o, som är förbättrade för att ge mer exakta och relevanta svar i olika konversationer och uppgifter.
 
-### sweGPT3
+[https://openai.com/index/chatgpt/](https://openai.com/index/chatgpt/)
+
+### GTP-SW3
 
 En svensk version av GPT-3, anpassad för att bättre förstå och generera text på svenska. Detta inkluderar lokala uttryck, kulturella referenser och kontext som är specifika för svenska användare.
 
-## Slutna ramverk med licenskostnader
+[https://www.ai.se/en/project/gpt-sw3](https://www.ai.se/en/project/gpt-sw3)
+
+
+### Claud AI
+anthropics chatbot
+
+[https://claude.ai/l](https://claude.ai/l)
+
+### Gemini
+tidigare bard, både chatbot och model heter gemini.
+
+[https://gemini.google.com/app](https://gemini.google.com/app)
+
+
+## Slutna verktyg med licenskostnader
 
 ### Copilot Studio
 
@@ -59,7 +77,7 @@ Ett företag som utvecklar AI-lösningar för olika industrier, inklusive hälso
 
 En AI-driven översättningstjänst som erbjuder högkvalitativa översättningar för ett stort antal språk. DeepL använder avancerade neuralnätverk för att säkerställa att översättningarna är både korrekta och naturliga.
 
-## Öppna ramverk
+## Öppna ramverk/tjänster
 
 ### Hugging Face
 
@@ -80,6 +98,8 @@ En integrerad utvecklingsmiljö för att arbeta med stora språkmodeller. LM Stu
 ### Ollama
 
 Ett ramverk som fokuserar på att göra det enkelt att integrera AI-modeller i applikationer. Ollama erbjuder en rad verktyg och bibliotek för att underlätta utvecklingsprocessen.
+
+[https://ollama.com/](https://ollama.com/)
 
 ### Libre Chat
 
